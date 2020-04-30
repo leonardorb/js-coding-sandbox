@@ -4,7 +4,7 @@ Start here. Code away!
 
 ## Overview
 
-This project gives you a quick start on coding and testing with the latest and greatest from JavaScript. It's a sandbox to play, test and be creative with your projects. Don't worry about setting up things. Focus on coding. For beginners and experienced developers.
+This project gives you a quick start on coding and testing with the latest and greatest from JavaScript. It's a sandbox to play, test and be creative with your projects. Don't worry about setting up things. Focus on coding. For beginners and experienced developers. If you're looking for working on a lot of mini dev projects, this repo is ideal for you.
 
 ## Technologies Used
 
@@ -34,7 +34,7 @@ Even simpler. To run a project, just do:
 $ npm run dev <project-path>
 
 // Example:
-$ npm run dev ./src/simple-math
+$ npm run dev src/simple-math
 ```
 
 This will run your project and refresh it every time that you save:
@@ -46,7 +46,7 @@ To run tests for a particular project, do:
 $ npm run test <project-path>
 
 // Example
-$ npm run test ./src/simple-math
+$ npm run test src/simple-math
 ```
 
 This will give you a scoped view of the test suite for the particular project. Like this:
