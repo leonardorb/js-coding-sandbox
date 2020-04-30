@@ -1,0 +1,27 @@
+{
+  "name": "js-coding-sandbox",
+  "version": "1.0.0",
+  "description": "Start here. Code away!",
+  "scripts": {
+    "dev": "nodemon --exec babel-node $*",
+    "test": "jest $*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardorb/js-coding-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardorb/js-coding-sandbox/issues"
+  },
+  "homepage": "https://github.com/leonardorb/js-coding-sandbox#readme",
+  "devDependencies": {
+    "@babel/core": "7.9.6",
+    "@babel/node": "7.8.7",
+    "@babel/preset-env": "7.9.6",
+    "jest": "25.5.2",
+    "nodemon": "2.0.3"
+  }
+}
