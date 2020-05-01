@@ -1,4 +1,4 @@
-import { add, subtract } from "./simpleMath";
+import { add, subtract } from './simpleMath'
 
-console.log(add(1, 2));
-console.log(subtract(4, 2));
+console.log(add(1, 2))
+console.log(subtract(4, 2))
